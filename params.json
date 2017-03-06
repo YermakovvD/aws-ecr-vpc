@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "KeyPair",
+    "ParameterValue": "Andriy_keypair"
+  },
+  {
+    "ParameterKey": "ContainerInstanceType",
+    "ParameterValue": "t2.micro"
+  },
+  {
+    "ParameterKey": "VPCID",
+    "ParameterValue": "vpc-33d72d5b"
+  },
+  {
+    "ParameterKey": "PublicSubnet",
+    "ParameterValue": "subnet-6207be0a"
+  },
+  {
+    "ParameterKey": "DefaultSecurityGroup",
+    "ParameterValue": "sg-b67f25de"
+  }
+]
